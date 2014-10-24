@@ -1,0 +1,48 @@
+BODY {
+	top:10px;
+	text-align:center;
+    FONT-SIZE: 20px; 
+    FONT-FAMILY: Tahoma; 
+    width: 100%;
+    border: thin;
+}
+/*bodyÑùÊ½*/
+
+.column1{
+	width:1000px;
+	margin:5px auto;
+	font-size: 20px;
+}
+.column1 select{
+	Max-width:300px;
+	font-size: 18px;
+}
+.column1 a{
+	padding-left:15px;
+	padding-right:15px;
+	color:blue;
+}
+.spline{
+	width:1200px;
+	height: 400px; 
+	margin: 0 auto;
+}
+
+.alarm{
+	width:1000px;
+	margin:5px auto;
+}
+
+.column1 a{
+	color:red;
+	font-size: 20px;
+}
+
+.alarm table{
+	width:1000px;
+	margin:5px auto;
+	font-size: 18px;
+}
+
+
+
